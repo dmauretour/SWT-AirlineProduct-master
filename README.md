@@ -29,9 +29,9 @@ Test cases to check:
 - Test for errors
 - Add mocks, stubs and drivers
 
-SOftware used
+Software used
 - JUnit
 - IntelliJ
-_ jcalendar
+- jcalendar
 - mockito
 
